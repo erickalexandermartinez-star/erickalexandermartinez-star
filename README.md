@@ -26,4 +26,4 @@ Breve descripción del proyecto: esta en modo prueba.
 
 ## 📫 Contacto
 - LinkedIn: 
-- Correo: tuemail@correo.com
+- Correo: erick.alexander.martinez@clases.edu.sv
